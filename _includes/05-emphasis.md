@@ -2,7 +2,7 @@
 
 Below is a *list* of my **technical skills**:
 
-##Technical Writing
+## Technical Writing
 - Writing
 - Proofreading
 - Formatting
